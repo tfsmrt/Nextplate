@@ -9,9 +9,7 @@
   "code": {
     "root": "src/layouts"
   },
-  "themeConfig": [
-    "src/config"
-  ],
+  "themeConfig": [],
   "arrangement": [],
   "showCommitModal": true
 }
